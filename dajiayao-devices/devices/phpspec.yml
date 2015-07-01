@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Dajiayao
+        psr4_prefix: Dajiayao
+        src_path: app

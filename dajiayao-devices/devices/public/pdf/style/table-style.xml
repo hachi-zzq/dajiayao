@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<stylesheet>
+    <any font-size="7.2px" font-type="monaco">
+    </any>
+
+    <table border.type="none" background.color="white" width="100%">
+        <tr>
+            <td border.type="none" margin="0px" padding-top="2mm">
+                <div height="22mm" width="22mm" padding="1mm" background.color="white" text-align="center">
+                    <span></span>
+                    <img margin-left="2.028mm" margin-top="1mm" height="16.667mm" width="16.667mm"></img>
+                </div>
+            </td>
+        </tr>
+        <tr class="head-foot" height="2mm">
+            <td class="top-bottom" border.style="solid" border.type="left+right" border.size="0.1px"
+                border.color="#000000"></td>
+            <td class="bottom-left-right" width="2mm" border.style="solid" border.type="top" border.size="0.1px"
+                border.color="#000000"></td>
+            <td class="top-left-right" width="2mm" border.style="solid" border.type="bottom" border.size="0.1px"
+                border.color="#000000"></td>
+        </tr>
+        <td class="left-right" width="2mm" border.style="solid" border.type="top+bottom" border.size="0.1px"
+            border.color="#000000"></td>
+    </table>
+</stylesheet>
